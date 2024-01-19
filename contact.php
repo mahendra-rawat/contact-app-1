@@ -7,6 +7,8 @@ $con = mysqli_connect('localhost', 'root', '','db_contact');
 
 // get the post records
 
+	// 123
+
 $txtName = $_POST['txtName'];
 $txtEmail = $_POST['txtEmail'];
 $txtPhone = $_POST['txtPhone'];
