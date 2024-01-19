@@ -24,7 +24,7 @@ if($rs)
 }
 else
 {
-	echo "Are you a genuine visitor?";
+	echo "Are you a genuine visitor!?";
 	
 }
 ?>
